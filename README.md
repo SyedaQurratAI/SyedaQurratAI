@@ -7,7 +7,6 @@
   </a>
 </p>
 
-### 🌐 Connect with me:
 
 ### 🌐 Connect with me:
 
