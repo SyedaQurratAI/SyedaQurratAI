@@ -50,7 +50,7 @@
    <img src="https://img.shields.io/badge/Sanity-FF2D20?style=for-the-badge&logo=sanity&logoColor=white" />
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
-<h2>Paymets</h2>
+<h2>Payments</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white" />
   <img src="https://img.shields.io/badge/Lemon_Squeezy-FFC233?style=for-the-badge&logo=lemonsqueezy&logoColor=black" />
