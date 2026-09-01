@@ -84,7 +84,7 @@
   <!-- Alternate Link for Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SyedaQurratAI&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <!-- Alternate Link for Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SyedaQurratAI&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-chi-ochre-35.vercel.app/api/top-langs/?username=SyedaQurratAI&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
 ---
 
